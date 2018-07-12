@@ -1,0 +1,47 @@
+.first
+{
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
+.second
+{
+    font-style: oblique;
+    font-size: 20px;
+}
+.third
+{
+    font-style: oblique;
+    font-size: 20px;
+}
+.fourth
+{
+    font-size: 30px;
+    font-style: oblique;
+}
+.fifth
+{
+    font-size: 30px;
+    font-style: oblique;
+}
+.sixth
+{
+    font-size: 20px;
+    font-style: italic;
+}
+.seventh
+{
+    font-size: 20px;
+    font-style: italic;
+}
+.eighth
+{
+    font-size: 20px;
+    font-style: italic; 
+}
+body{
+    background-image:url("Pic.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
